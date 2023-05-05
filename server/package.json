@@ -1,6 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "homepage": "https://annakipilova.github.io/SQL-to-JSON-Converter",
   "description": "",
   "main": "server.js",
   "scripts": {
