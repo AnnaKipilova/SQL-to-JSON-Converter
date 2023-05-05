@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SQL-to-JSON-Converter/static/css/main.f08f7d92.css",
+    "main.js": "/SQL-to-JSON-Converter/static/js/main.df309e8f.js",
+    "static/js/651.c8a7561c.chunk.js": "/SQL-to-JSON-Converter/static/js/651.c8a7561c.chunk.js",
+    "static/media/background.jpg": "/SQL-to-JSON-Converter/static/media/background.83956d21b42e023a13c6.jpg",
+    "index.html": "/SQL-to-JSON-Converter/index.html",
+    "static/media/eye-icon.svg": "/SQL-to-JSON-Converter/static/media/eye-icon.c5516c5e3e9d142f4800a064d6787b41.svg",
+    "main.f08f7d92.css.map": "/SQL-to-JSON-Converter/static/css/main.f08f7d92.css.map",
+    "main.df309e8f.js.map": "/SQL-to-JSON-Converter/static/js/main.df309e8f.js.map",
+    "651.c8a7561c.chunk.js.map": "/SQL-to-JSON-Converter/static/js/651.c8a7561c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f08f7d92.css",
+    "static/js/main.df309e8f.js"
+  ]
+}
