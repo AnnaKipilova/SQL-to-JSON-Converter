@@ -27,7 +27,7 @@ const ConnectForm = (
     const connectToDatabase = (event) => {
         event.preventDefault(); // aby sa neotvorila nova stranka pri submitnuti
 
-        Axios.post('http://localhost:3001/connect', {
+        Axios.post('https://sql-json-converter.herokuapp.com/connect', {
         host: host,
         user: user,
         password: password,
