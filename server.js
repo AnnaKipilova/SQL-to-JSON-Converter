@@ -211,6 +211,6 @@ const db = new Pool({
 //     );
 // });
 
-app.listen(process.env.PORT || PORT, () => {
+app.listen(process.env.PORT || 3001, () => {
     console.log("Your server is running on port 3001");
 });
