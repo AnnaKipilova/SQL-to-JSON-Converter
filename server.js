@@ -9,6 +9,7 @@ const { unescape } = require('unescape-js');
 app.use(cors()); // it has to be there always
 app.use(express.json()); // this too
 app.use(bodyParser.json());
+const port = process.env.PORT || 3001;
 
 let db;
 
@@ -210,6 +211,6 @@ const db = new Pool({
 //     );
 // });
 
-app.listen(3001, () => {
+app.listen(port, () => {
     console.log("Your server is running on port 3001");
 });
