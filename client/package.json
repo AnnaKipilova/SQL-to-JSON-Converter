@@ -27,8 +27,7 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
-
-    "build": "webpack --config webpack.config.js",
+    "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-app-rewired eject",
     "webpack": "webpack --config webpack.config.js",
